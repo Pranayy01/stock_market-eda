@@ -1,4 +1,4 @@
-# 🚀 AI-Driven Stock Market EDA & Risk Analysis  
+# Stock Market EDA & Risk Analysis  
 
 ## 📌 Project Description
 This project performs **Exploratory Data Analysis (EDA)** on a selection of **US and Indian stocks** to study their **returns, volatility, risk, correlations, and event impact (COVID crash)**.  
